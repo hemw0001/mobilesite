@@ -1,0 +1,30 @@
+@font-face {
+  font-family: italic;
+  src: url(Fonts/Roboto-Italic-VariableFont_wdth\,wght.woff);
+}
+
+@font-face {
+  font-family: variable;
+  src: url(../Css/Fonts/Roboto-VariableFont_wdth\,wght.woff);
+}
+
+p{font-family: italic;}
+
+body{variable}
+
+body {
+  background-color: pink;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+dl
+{margin-bottom: 3rem;}
+img
+{
+    margin: 1rem;
+}
+img{padding: 0.5rem;}
